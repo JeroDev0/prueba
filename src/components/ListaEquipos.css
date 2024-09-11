@@ -1,0 +1,79 @@
+    .tabla-equipos {
+        background-color: #121212;
+        padding: 20px;
+        border-radius: 8px;
+        color: white;
+    }
+    
+    .tabla-equipos h1 {
+        font-size: 2em;
+        margin-bottom: 10px;
+    }
+    
+    .tabla-equipos h2 {
+        font-size: 1.2em;
+        color: #999;
+        margin-bottom: 20px;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    thead {
+        background-color: #1d1d1d;
+    }
+    
+    th, td {
+        padding: 10px 15px;
+        text-align: left;
+        border-bottom: 1px solid #333;
+    }
+    
+    th {
+        font-weight: bold;
+    }
+    
+    tbody tr:hover {
+        background-color: #2b2b2b;
+    }
+    
+    .equipo-imagen {
+        width: 80px;
+        height: auto;
+        margin-right: 10px;
+        vertical-align: middle;
+    }
+    
+    .icono {
+        width: 40px;
+        height: auto;
+    }
+    
+    td {
+        vertical-align: middle;
+    }
+    
+    .btn-solicitar {
+        background-color: #3f88f7;
+        border: none;
+        color: white;
+        padding: 8px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    
+    .btn-solicitar:hover {
+        background-color: #357dd7;
+    }
+    
+    a {
+        color: #3f88f7;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+    
